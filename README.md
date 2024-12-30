@@ -43,6 +43,7 @@
 | 配置文件            | `必填`                     | 映射到宿主机/opt/constant.js [emby示例](config%2Femby%2Fconstant.js) [plex示例](config%2Fplex%2Fconstant.js) |
 
 ### 部署方式
+docker push ajun59420/emby115:tagname (个人备份）
 
 #### docker部署
 /home/MediaLinker/下创建证书文件、配置文件constant.js [emby示例](config%2Femby%2Fconstant.js) [plex示例](config%2Fplex%2Fconstant.js)
